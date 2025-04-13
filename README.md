@@ -1,6 +1,6 @@
 ![MasterHead](http://erdemskywalker.site/img/Erdem.png)
 <h1 align="center">Hi 👋, I'm Erdem Turan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate software developer from Türkiye</h3>
 
 - 📝 I regularly write articles on [erdemskywalker.site](erdemskywalker.site)
 
