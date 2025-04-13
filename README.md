@@ -1,3 +1,4 @@
+[![MasterHead](https://erdemskywalker.site/img/background.png)
 <h1 align="center">Hi 👋, I'm Erdem Turan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
