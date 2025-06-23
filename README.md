@@ -1,4 +1,4 @@
-![MasterHead]("http://erdemskywalker.site/img/Erdem.png](https://erdemskywalker.site/wp-content/uploads/2025/06/background-1024x576.avif")
+![MasterHead]([http://erdemskywalker.site/img/Erdem.png](https://erdemskywalker.site/wp-content/uploads/2025/06/background-1024x576.avif)]()
 <h1 align="center">Hi 👋, I'm Erdem Turan</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
