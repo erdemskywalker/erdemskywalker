@@ -1,4 +1,6 @@
-![MasterHead](https://erdemskywalker.site/wp-content/uploads/2025/06/background-1024x576.avif)
+<p align="center">
+  <img src="https://erdemskywalker.site/wp-content/uploads/2025/06/background-1024x576.avif" alt="MasterHead" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Erdem Turan</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
