@@ -12,7 +12,7 @@
 
 * 🖥️ Developing **Peri Kernel**
 * 🐱 Creator of **Kedi Programming Language**
-* ⚡ Building **Tuebtu Framework**
+* ⚡ Building **Pervega Framework**
 * 🔒 Interested in Cybersecurity & Reverse Engineering
 * 🌍 Türkiye
 
