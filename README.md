@@ -30,6 +30,9 @@
 <a href="https://youtube.com/@erdemskywalker">
 <img src="https://cdn.simpleicons.org/youtube" height="48" />
 </a>
+<a href="https://erdemskywalker.site">
+<img src="https://cdn.simpleicons.org/linux" height="48" />
+</a>
 </p>
 
 ---
