@@ -1,104 +1,74 @@
-# 👋 Hey, I'm Erdem Turan
+<div align="center">
 
-### Software Developer • OS Developer • Cybersecurity Enthusiast
+# Hi 👋 I'm Erdem Turan
 
-I'm an 18-year-old software developer from Türkiye who enjoys building everything from web applications to operating systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=OS+Developer;Cybersecurity+Enthusiast;Creator+of+Peri+Kernel;Creator+of+Kedi+Programming+Language;Full+Stack+Developer" />
 
-Currently, I'm working on:
-
-* 🐱 **Kedi Programming Language** (Turkish programming language)
-* 🖥️ **Peri Kernel** (Custom operating system kernel)
-* ⚡ **Tuebtu Framework** (PHP framework)
-* ☁️ **SkyhanCloud Ecosystem**
-* 🔒 Cybersecurity & Reverse Engineering projects
+</div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-* 💻 Started programming at a young age
-* 🔍 Interested in Cybersecurity & Digital Forensics
-* 🖥️ Operating System & Kernel Development Enthusiast
-* 🌐 Full Stack Web Developer
-* 📱 Building commercial software solutions
-* 🎯 Goal: Create innovative software products and become a leading engineer
-
----
-
-## 🌍 Website
-
-* 🌐 https://erdemskywalker.site
+* 🖥️ Developing **Peri Kernel**
+* 🐱 Creator of **Kedi Programming Language**
+* ⚡ Building **Tuebtu Framework**
+* 🔒 Interested in Cybersecurity & Reverse Engineering
+* 🌍 Türkiye
 
 ---
 
-## 📫 Contact
-
-* Email: [turanerdeyusuf28@gmail.com](mailto:turanerdeyusuf28@gmail.com)
-
----
-
-## 🔗 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/erdemskywalker">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
 <a href="https://instagram.com/erdemskywalker_">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-
-<a href="https://www.youtube.com/@erdemskywalker">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40">
+<a href="https://youtube.com/@erdemskywalker">
+<img src="https://cdn.simpleicons.org/youtube" height="48" />
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Technologies
+### 🛠️ Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,javascript,typescript,ruby,bash" />
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,laravel,django" />
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,docker,figma,vscode" />
-
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,html,css,mysql,linux,git,django,laravel,docker,bash,vscode" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
-
-### 🖥️ Peri Kernel
-
-A custom operating system kernel focused on performance, learning, and cybersecurity tools.
-
-### 🐱 Kedi Programming Language
-
-A Turkish programming language with its own IDE and C code generation support.
-
-### ⚡ Tuebtu Framework
-
-A PHP framework featuring routing, authentication, ORM, admin panel support, and modern web development tools.
-
-### ☁️ SkyhanCloud
-
-Software ecosystem including e-commerce, accounting, and business management solutions.
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=erdemskywalker&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erdemskywalker&theme=tokyonight">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=erdemskywalker&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemskywalker&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-> "Build. Learn. Improve. Repeat."
+### 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=erdemskywalker&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=erdemskywalker\&style=for-the-badge)
+
+</div>
